@@ -2,7 +2,7 @@
 Charity: Water
 import { Link } from "@tanstack/react-router";
 
-export default function CharityWaterLandingPage() {
+[export default function CharityWaterLandingPage() {
   return (
     <main className="min-h-screen bg-[#003366] text-white">
       {/* Hero Section */}
@@ -153,4 +153,4 @@ export default function CharityWaterLandingPage() {
       </footer>
     </main>
   );
-}
+](https://ishaandesai8.github.io/charitywater/)
